@@ -1,7 +1,7 @@
 # temporizador
 Aprendiendo Css y Html - Fuente: FrontEnd Mentor
 
-Diseño de FrontEnd Mentor
+Challenge FrontEnd Mentor
 ![desktop-design](https://user-images.githubusercontent.com/66961947/107104056-1c52d500-67ee-11eb-898f-1e8b424b647e.jpg)
 
 Mi diseño que hice de FrontEnd Mentor
