@@ -1,6 +1,6 @@
 Challenge Frontend Mentor - Launch countdown timer
 
-Diseño realizado con Html y Css.
+Desarrollado con Html y Css.
 
 Deploy https://daniel-010599.github.io/temporizador/
 
