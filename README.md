@@ -1,5 +1,4 @@
-# temporizador
-Aprendiendo Css y Html - Fuente: FrontEnd Mentor
+Challenge Frontend Mentor - Launch countdown timer
 
 Deploy https://daniel-010599.github.io/temporizador/
 
